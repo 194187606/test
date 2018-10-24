@@ -1,2 +1,8 @@
 1
+<<<<<<< HEAD
 asdasd
+=======
+2
+3
+4asdadsad
+>>>>>>> 253be8194303b597b9da6df5ee072bcff8ee2ab7
