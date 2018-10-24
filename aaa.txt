@@ -1,8 +1,12 @@
 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdasd
 =======
 2
 3
 4asdadsad
 >>>>>>> 253be8194303b597b9da6df5ee072bcff8ee2ab7
+=======
+asdadasd
+>>>>>>> bbd22b80be4f2d1d282aa50c116ecdc7996640d5
