@@ -1,2 +1,2 @@
-<?php 
-asdasdasd
+<?php
+echo `asdada` . 'qweqe';
